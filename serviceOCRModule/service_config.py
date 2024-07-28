@@ -1,3 +1,9 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+# @Author : BADBADBADBOY
+# @Project : PaddleOCR2openvino
+# @Time : 2024/7/28 上午10:17
+
 cls_model_file = "./serviceOCRModule/ocrCls/openvino_dir/cls.xml"
 detect_model_file = "./serviceOCRModule/ocrDetect/openvino_dir/det.xml"
 recog_model_file = "./serviceOCRModule/ocrRecog/openvino_dir/rec.xml"

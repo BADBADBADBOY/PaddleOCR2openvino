@@ -1,12 +1,10 @@
-"""
-#!-*- coding=utf-8 -*-
-@author: BADBADBADBADBOY
-@contact: 2441124901@qq.com
-@software: PyCharm Community Edition
-@file: DB_postprocesss.py
-@time: 2020/7/4 15:16
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+# @Author : BADBADBADBOY
+# @Project : PaddleOCR2openvino
+# @Time : 2024/7/28 上午10:17
 
-"""
+
 import numpy as np
 import string
 import cv2
